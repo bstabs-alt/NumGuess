@@ -1,0 +1,8 @@
+C:\Users\rsweetmangou\source\repos\NumGuess\bin\Debug\NumGuess.exe.config
+C:\Users\rsweetmangou\source\repos\NumGuess\bin\Debug\NumGuess.exe
+C:\Users\rsweetmangou\source\repos\NumGuess\bin\Debug\NumGuess.pdb
+C:\Users\rsweetmangou\source\repos\NumGuess\obj\Debug\NumGuess.csproj.AssemblyReference.cache
+C:\Users\rsweetmangou\source\repos\NumGuess\obj\Debug\NumGuess.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsweetmangou\source\repos\NumGuess\obj\Debug\NumGuess.csproj.CoreCompileInputs.cache
+C:\Users\rsweetmangou\source\repos\NumGuess\obj\Debug\NumGuess.exe
+C:\Users\rsweetmangou\source\repos\NumGuess\obj\Debug\NumGuess.pdb
