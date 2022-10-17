@@ -20,7 +20,7 @@ namespace NumGuess
             Console.ForegroundColor = ConsoleColor.Green;
 
             //write app info
-            Console.WriteLine("{0}: Version {1} by {2}", appName, appVersion, appAuthor);
+            Console.WriteLine($"{appName}: Version {appVersion} by {appAuthor}");
 
             //reset text colour
             Console.ResetColor();
