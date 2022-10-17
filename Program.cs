@@ -11,12 +11,11 @@ namespace NumGuess
         static int num = 0;
         static void Main(string[] args)
         {
-            if (args[1] != null) 
+            if (args.Length > 1)
             {
                 num = Int16.Parse(args[1]);
             }
-            Console.WriteLine(num);
-            Environment.Exit(1);
+            Console.WriteLine($"Num: {num}");
         }
     }
 }
