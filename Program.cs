@@ -11,11 +11,20 @@ namespace NumGuess
         static int num = 0;
         static void Main(string[] args)
         {
-            if (args.Length > 1)
-            {
-                num = Int16.Parse(args[1]);
-            }
-            Console.WriteLine($"Num: {num}");
+            //app vars
+            string appName = "Number Guesser";
+            string appVersion = "1.0.0";
+            string appAuthor = "Reuben Sweetman";
+
+            //text color
+            Console.ForegroundColor = ConsoleColor.Green;
+
+            //write app info
+            Console.WriteLine("{0}: Version {1} by {2}", appName, appVersion, appAuthor);
+
+            //reset text colour
+            Console.ResetColor();
+
         }
     }
 }
